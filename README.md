@@ -13,7 +13,9 @@
 
 <!-- PROFESSIONAL OVERVIEW -->
 ### <img src="https://api.iconify.design/material-symbols:person-search-outline-rounded.svg?color=%2300E676" width="24" /> Professional Philosophy
-I specialize in bridging the gap between complex backend logic and intuitive frontend design. With a focus on the **MERN stack** and **Next.js**, I build digital products that prioritize performance, accessibility, and cinematic user experiences. Whether it's a digital storefront or a specialized service platform, my goal is to deliver clean, maintainable code that drives engagement.
+I build high-performance web applications with a deep focus on **Frontend Engineering**. While my passion lies in crafting cinematic, accessible, and highly-interactive user interfaces, I am a **Full Stack Developer** at heart. 
+
+I specialize in the **MERN stack** and **Next.js** to bridge the gap between complex backend logic and intuitive design. My goal is to transform ideas into clean, maintainable code that delivers 5-star digital experiences.
 
 ---
 
