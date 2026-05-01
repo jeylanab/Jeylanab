@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=JEYLAN+ABDO+TESI;FRONTEND+ENGINEER;FULL+STACK+DEVELOPER;UI/UX+DESIGNER" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LOCATION-ADDIS_ABABA_/style=for-the-badge&logo=googlemaps&logoColor=00E676" />
+<img src="https://img.shields.io/badge/LOCATION-ADDIS_ABABA_/_ETH-121212?style=for-the-badge&logo=googlemaps&logoColor=00E676" />
   <img src="https://img.shields.io/badge/EXPERIENCE-2%2B_YEARS-121212?style=for-the-badge&logo=clock&logoColor=00E676" />
   <img src="https://img.shields.io/badge/EDUCATION-BCA_GRADUATE-121212?style=for-the-badge&logo=education&logoColor=00E676" />
 </p>
