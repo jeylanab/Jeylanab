@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=JEYLAN+ABDO+TESI;FRONTEND+ENGINEER;FULL+STACK+DEVELOPER;UI/UX+DESIGNER" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LOCATION-ADDIS_ABABA_/_INDIA-121212?style=for-the-badge&logo=googlemaps&logoColor=00E676" />
+  <img src="https://img.shields.io/badge/LOCATION-ADDIS_ABABA_/style=for-the-badge&logo=googlemaps&logoColor=00E676" />
   <img src="https://img.shields.io/badge/EXPERIENCE-2%2B_YEARS-121212?style=for-the-badge&logo=clock&logoColor=00E676" />
   <img src="https://img.shields.io/badge/EDUCATION-BCA_GRADUATE-121212?style=for-the-badge&logo=education&logoColor=00E676" />
 </p>
@@ -13,9 +13,7 @@
 
 <!-- PROFESSIONAL OVERVIEW -->
 ### <img src="https://api.iconify.design/material-symbols:person-search-outline-rounded.svg?color=%2300E676" width="24" /> Professional Philosophy
-I build high-performance web applications with a deep focus on **Frontend Engineering**. While my passion lies in crafting cinematic, accessible, and highly-interactive user interfaces, I am a **Full Stack Developer** at heart. 
-
-I specialize in the **MERN stack** and **Next.js** to bridge the gap between complex backend logic and intuitive design. My goal is to transform ideas into clean, maintainable code that delivers 5-star digital experiences.
+I build high-performance web applications with a deep focus on **Frontend Engineering**. My passion lies in crafting User Friendly, accessible, and highly-interactive user interfaces, I am a **Full Stack Developer** at heart. I specialize in the **MERN stack** and **Next.js** to bridge the gap between complex backend logic and intuitive design. My goal is to transform ideas into clean, maintainable code that delivers 5-star digital experiences.
 
 ---
 
