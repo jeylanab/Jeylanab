@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Header Section with Professional Branding -->
+<!-- Header Section with Cyberpunk Branding -->
 <p align="right">
   <a href="mailto:jeylantesi@gmail.com">
     <img src="https://img.shields.io/badge/AVAILABLE%20FOR%20HIRE-00E676?style=for-the-badge&logo=codeforces&logoColor=black" />
@@ -9,65 +9,67 @@
 
 # <samp>Hi, I'm <span style="color: #00E676;">Jeylan Abdo Tesi</span></samp> <img src="https://api.iconify.design/material-symbols:electric-bolt-rounded.svg?color=%2300E676" width="30" height="30" />
 
-### <kbd>Frontend Engineer</kbd> • <kbd>Full-Stack Developer</kbd> • <kbd>UI/UX Designer</kbd>
+### <kbd>Frontend Engineer</kbd> • <kbd>Full-Stack Software Developer</kbd> • <kbd>MERN Specialist</kbd>
 
 <!-- Professional Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E676&center=true&vCenter=true&width=435&lines=Building+Business+Tools;MERN+Stack+Specialist;Cinematic+UI+Experiences;15%2B+Projects+Delivered" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E676&center=true&vCenter=true&width=435&lines=Building+Scalable+Business+Tools;MERN+Stack+Expert;Cinematic+Frontend+Experiences;15%2B+Production+Projects+Delivered" alt="Typing SVG" />
 </p>
 
 ---
 
-<!-- Professional Stats Row - Inspired by image_4c8d98.jpg and Portfolio -->
+<!-- Professional Stats Row -->
 <p align="center">
   <img src="https://img.shields.io/badge/2%2B_Years_Experience-121212?style=for-the-badge&logo=clock&logoColor=00E676" />
   <img src="https://img.shields.io/badge/15%2B_Projects_Completed-121212?style=for-the-badge&logo=rocket&logoColor=00E676" />
-  <img src="https://img.shields.io/badge/5_Star_Client_Rating-121212?style=for-the-badge&logo=star&logoColor=00E676" />
+  <img src="https://img.shields.io/badge/Client_Satisfaction-100%25-121212?style=for-the-badge&logo=star&logoColor=00E676" />
 </p>
 
 </div>
 
 ---
 
-### <img src="https://api.iconify.design/material-symbols:account-circle.svg?color=%2300E676" width="20" height="20" /> The Mission
-Building scalable digital products with modern web technologies. As a **Full Stack developer specializing in the MERN stack**, I am passionate about building impactful digital experiences with a focus on creating **highly animated, performant, and accessible** user interfaces.
+### <img src="https://api.iconify.design/material-symbols:account-circle.svg?color=%2300E676" width="20" height="20" /> Professional Summary
+I am a **Full-Stack Software Developer** specializing in high-performance frontend engineering and scalable digital products. With over 2 years of experience and a BCA degree, I focus on building impactful experiences using the **MERN stack**, **Next.js 14**, and **TypeScript**.
 
-*   **Impact:** Delivered 15+ projects with a measurable 35% load-time reduction and 40% engagement uplift.
-*   **Education:** Bachelor of Computer Applications (BCA).
-*   **Specialization:** React.js, Next.js 14, and TypeScript.
-
----
-
-### <img src="https://api.iconify.design/material-symbols:build-circle-rounded.svg?color=%2300E676" width="20" height="20" /> Technical Toolbox
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-00E676?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-00E676?logo=next.js&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-00E676?logo=typescript&logoColor=black) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-00E676?logo=tailwind-css&logoColor=black) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-00E676?logo=node.js&logoColor=black) ![Express](https://img.shields.io/badge/-Express-00E676?logo=express&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-00E676?logo=firebase&logoColor=black) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-00E676?logo=docker&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/-CI/CD-00E676?logo=github-actions&logoColor=black) ![AWS](https://img.shields.io/badge/-AWS-00E676?logo=amazon-aws&logoColor=black) |
+*   **Impact:** Delivered 15+ production projects across the complete product lifecycle.
+*   **Performance:** Consistently achieving 30-35% load-time reductions in web applications.
+*   **Accessibility:** Commitment to WCAG 2.1 standards for inclusive digital tools.
 
 ---
 
-### <img src="https://api.iconify.design/material-symbols:deployed-code-outline.svg?color=%2300E676" width="20" height="20" /> Featured Projects
+### <img src="https://api.iconify.design/material-symbols:deployed-code-outline.svg?color=%2300E676" width="20" height="20" /> Proud Projects
 
-**[JoeVibe — E-Commerce Platform](https://joepholioe.vercel.app)**
-*   Full-stack solution featuring **Stripe payments** and **JWT auth**.
-*   Implemented code-splitting and query optimization resulting in a **35% page load reduction**.
+**[Olens Store — Digital Retail](https://olenstore.vercel.app)**
+*   A premium digital storefront serving the **Addis Ababa** market.
+*   Features a high-performance product grid and seamless user experience.
 
-**[Roofly — Real Estate Platform](https://github.com/jeylanab)**
-*   Property search application with **Google Maps API** integration and real-time filters.
-*   Led the API architecture for a secure **MERN stack** delivery.
+**[Taily-Pets — Pet Care Platform](https://taily-pets.vercel.app)**
+*   A specialized platform designed for **pet lovers and caring services**.
+*   Built with an intuitive interface and interactive feature sets.
+
+**[Olens Studio — Web Agency](https://olens-ruddy.vercel.app)**
+*   A modern, cinematic agency portfolio showcasing high-end design services.
+*   Focused on **visual storytelling** and clean, responsive architecture.
+
+**[Theo Rallis — Relationship Success](https://theo-rallis.vercel.app)**
+*   Premium platform for a **Cyprus-based client** focusing on value-driven relationship success.
+*   Engineered with modern typography and a high-conversion landing structure.
 
 ---
 
-### <img src="https://api.iconify.design/material-symbols:bar-chart-rounded.svg?color=%2300E676" width="20" height="20" /> GitHub Insights
+### <img src="https://api.iconify.design/material-symbols:bar-chart-rounded.svg?color=%2300E676" width="20" height="20" /> Engineering Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeylanab&show_icons=true&theme=radical&font_color=00E676&icon_color=00E676&title_color=00E676" alt="Jeylan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeylanab&show_icons=true&theme=radical&font_color=00E676&icon_color=00E676&title_color=00E676&bg_color=0D1117&hide_border=true" alt="Jeylan's Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeylanab&theme=radical&fire=00E676&ring=00E676&sideNums=00E676&sideLabels=00E676&dates=00E676&stroke=00E676&bg_color=0D1117&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeylanab&layout=compact&theme=radical&font_color=00E676&icon_color=00E676&title_color=00E676&bg_color=0D1117&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### <img src="https://api.iconify.design/material-symbols:connect-without-contact.svg?color=%2300E676" width="20" height="20" /> Professional Connections
+### <img src="https://api.iconify.design/material-symbols:connect-without-contact.svg?color=%2300E676" width="20" height="20" /> Connect & Collaborate
 <p align="center">
   <a href="https://linkedin.com/in/jeylan-tesi-53a746257"><img src="https://img.shields.io/badge/LinkedIn-00E676?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
   <a href="https://joefolio-official.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00E676?style=for-the-badge&logo=vercel&logoColor=black" /></a>
@@ -75,5 +77,5 @@ Building scalable digital products with modern web technologies. As a **Full Sta
 </p>
 
 <div align="center">
-  <sub>Built with precision and purpose by Jeylan Abdo Tesi</sub>
+  <sub>Built with precision and high-performance code by Jeylan Abdo Tesi</sub>
 </div>
