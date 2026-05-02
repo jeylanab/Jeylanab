@@ -6,7 +6,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/LOCATION-ADDIS_ABABA_/_ETH-121212?style=for-the-badge&logo=googlemaps&logoColor=00E676" />
   <img src="https://img.shields.io/badge/EXPERIENCE-2%2B_YEARS-121212?style=for-the-badge&logo=clock&logoColor=00E676" />
-  <img src="https://img.shields.io/badge/EDUCATION-BCA_GRADUATE-121212?style=for-the-badge&logo=education&logoColor=00E676" />
+  <img src="https://img.shields.io/badge/EDUCATION-CS_GRADUATE-121212?style=for-the-badge&logo=education&logoColor=00E676" />
 </p>
 
 ---
